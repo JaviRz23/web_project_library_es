@@ -165,11 +165,7 @@
   color: #838383;
 }
 
-.header__link {
-  color: #2f80ed;
-  text-decoration: none;
-}
-
+/* Hover en los enlaces de navegación */
 .nav__link:hover {
   text-decoration: underline;
 }
