@@ -55,7 +55,6 @@
 
 .nav {
   display: flex;
-  align-items: center;
   justify-content: space-between;
 }
 
@@ -66,10 +65,11 @@
 
 .nav__links {
   display: flex;
-  padding: 0;
-  column-gap: 20px;
-  margin-top: 8px;
   list-style-type: none;
+  column-gap: 20px;
+  padding: 0;
+  margin: 8px 0 0;
+  height: 30px;
 }
 
 .nav__link {
